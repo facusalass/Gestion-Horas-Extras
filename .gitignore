@@ -1,0 +1,9 @@
+# Ignorar la base de datos (Aquí están los datos privados)
+*.db
+sistema_jornales.db
+
+# Ignorar los reportes de Excel exportados
+*.csv
+
+# Ignorar carpetas basura de Python
+__pycache__/
