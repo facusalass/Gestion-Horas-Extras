@@ -1,0 +1,737 @@
+[
+ {
+   "A": "AGENTE CUIL",
+   "B": "AGENTE NOMBRE",
+   "C": "TIPO DE CONTRATO"
+ },
+ {
+   "A": "27-26050824-0",
+   "B": "ACEVEDO CAROLINA, MERCEDES",
+   "C": "CTI"
+ },
+ {
+   "A": "20-26267124-1",
+   "B": "AGUIRRE GUSTAVO GABRIEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-31294472-4",
+   "B": "AHRNDT CRISTIAN IVAN",
+   "C": "CTI"
+ },
+ {
+   "A": "20-23455877-4",
+   "B": "ALBRECHT OSVALDO",
+   "C": "CTI"
+ },
+ {
+   "A": "27-28122612-1",
+   "B": "ALCARAZ MARIA VERONICA",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-20193006-6",
+   "B": "ALFONSO ROBERTO EDGARDO",
+   "C": "CTI"
+ },
+ {
+   "A": "27-33724978-2",
+   "B": "ALONSO DANIELA ANABEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-17251150-4",
+   "B": "ALTAMIRANO TULIO ADRIAN",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-31971229-2",
+   "B": "AMATO FABRICIO OSCAR",
+   "C": "CTI"
+ },
+ {
+   "A": "20-25904526-7",
+   "B": "ARCE MARCELO RODOLFO",
+   "C": "CTI"
+ },
+ {
+   "A": "23-36563624-9",
+   "B": "ARGÃœELLO GUIDO MIGUEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-22273209-4",
+   "B": "ARREGUI EDUARDO RUBEN",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "27-27255660-7",
+   "B": "AYALA VANINA LUCIANA",
+   "C": "CTI"
+ },
+ {
+   "A": "20-26267342-2",
+   "B": "BAEZ HECTOR GERARDO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-27486372-3",
+   "B": "BALBUENA JUAN CARLOS",
+   "C": "CTI"
+ },
+ {
+   "A": "20-26812583-4",
+   "B": "BARRIOS CARLOS ARIEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-23820896-4",
+   "B": "BARRIOS GUZMAN ALBERTO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-24777912-5",
+   "B": "BARRIOS MIGUEL ANGEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-28955251-1",
+   "B": "BECK EMILIO ANTONIO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-26696321-2",
+   "B": "BELTRAN  LEANDRO JAVIER",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-17960487-7",
+   "B": "BENCHAT ALEGRE JORGE ANTONIO RUBEN",
+   "C": "CTI"
+ },
+ {
+   "A": "20-28319115-0",
+   "B": "BENITEZ FRANCO DAMIAN",
+   "C": "CTI"
+ },
+ {
+   "A": "20-36966593-7",
+   "B": "BENITEZ MATIAS MANUEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-33548963-3",
+   "B": "BIANCHI LEANDRO GASTON",
+   "C": "CTI"
+ },
+ {
+   "A": "20-35285785-9",
+   "B": "BLANCO JUAN RAMON",
+   "C": "CTI"
+ },
+ {
+   "A": "20-36270525-9",
+   "B": "BORDA MAURO RAMON",
+   "C": "CTI"
+ },
+ {
+   "A": "20-23795632-0",
+   "B": "BORDON GUSTAVO NORBERTO",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-26247026-2",
+   "B": "BORDON JORGE ANDRES",
+   "C": "CTI"
+ },
+ {
+   "A": "27-21101337-6",
+   "B": "BRESANOVICH CLAUDIA SILVINA",
+   "C": "CTI"
+ },
+ {
+   "A": "20-23269105-1",
+   "B": "BRESANOVICH VICTOR JAVIER",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-27989965-3",
+   "B": "BRUNER DAMIAN ALBERTO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-33475639-5",
+   "B": "BUSEMI PABLO ROBERTO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-25973063-6",
+   "B": "CABRERA CARMELO ARIEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-24296117-0",
+   "B": "CACERES ALCIDES GUILLERMO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-42484621-0",
+   "B": "CACERES ANGEL MANUEL GABRIEL",
+   "C": "CTI"
+ },
+ {
+   "A": "23-17150007-9",
+   "B": "CANTERO SERGIO FABIAN",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-21849414-6",
+   "B": "CANTEROS  DANIEL FELICIANO",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-32062544-1",
+   "B": "CANTEROS CRISTIAN RENE",
+   "C": "CTI"
+ },
+ {
+   "A": "20-33548966-8",
+   "B": "CARDOZO GERMAN GUIDO",
+   "C": "CTI"
+ },
+ {
+   "A": "23-27002098-4",
+   "B": "CASA#AS ALEJANDRA NOEMI",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-25518244-8",
+   "B": "CASA#AS JOSE MARIA",
+   "C": "CTI"
+ },
+ {
+   "A": "27-29020186-7",
+   "B": "CASA#AS MARIA DE LOS ANGELES",
+   "C": "CTI"
+ },
+ {
+   "A": "27-24908816-7",
+   "B": "CATANEO NATALIA VERONICA",
+   "C": "CTI"
+ },
+ {
+   "A": "20-26812204-5",
+   "B": "CATANEO PABLO CESAR",
+   "C": "CTI"
+ },
+ {
+   "A": "20-37071031-8",
+   "B": "CHAMORRO ERICK BRAIAN",
+   "C": "CTI"
+ },
+ {
+   "A": "20-16773372-8",
+   "B": "CHAMORRO ESTEBAN DALMACIO",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "27-25210854-3",
+   "B": "CISTERNAS NATALIA VANESA",
+   "C": "CTI"
+ },
+ {
+   "A": "27-25534055-2",
+   "B": "CORVALAN RAMONA AURELIA",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "23-28945188-9",
+   "B": "DE LOS SANTOS CRISTIAN SEBASTIAN",
+   "C": "CTI"
+ },
+ {
+   "A": "20-33729938-6",
+   "B": "DIAZ CARLOS DANIEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-30522520-8",
+   "B": "DOMENEZ LOPEZ LUCAS MATIAS",
+   "C": "CTI"
+ },
+ {
+   "A": "20-31811449-9",
+   "B": "DOMINGUEZ MARCELO JAVIER",
+   "C": "CTI"
+ },
+ {
+   "A": "20-18394851-3",
+   "B": "DUARTE DANIEL RUBEN",
+   "C": "CTI"
+ },
+ {
+   "A": "20-29213367-8",
+   "B": "EIDEN LUQUE HECTOR FRANCISCO",
+   "C": "CTI"
+ },
+ {
+   "A": "27-27991019-8",
+   "B": "EIDEN LUQUE MARIA MARTA",
+   "C": "CTI"
+ },
+ {
+   "A": "27-25276247-2",
+   "B": "ESCALANTE ANA",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "27-24908393-9",
+   "B": "ESCALANTE MARIELA ALEJANDRA",
+   "C": "CTI"
+ },
+ {
+   "A": "20-33859868-9",
+   "B": "ESPINDOLA MATIAS ALEJANDRO",
+   "C": "CTI"
+ },
+ {
+   "A": "27-22905645-5",
+   "B": "FERNANDEZ GLADIS ELSA",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-36977574-0",
+   "B": "FIGUEREDO ABIGAIL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-26564677-9",
+   "B": "FLORES EDGARDO DAVID",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-26526766-2",
+   "B": "FRANZETTI EMILIANO MARTIN",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "27-22882960-4",
+   "B": "GALARZA ROSA  JUANA",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-26534177-3",
+   "B": "GARCIA DARIO ESTEBAN",
+   "C": "CTI"
+ },
+ {
+   "A": "20-33196758-1",
+   "B": "GARCIA SCRIMIZZI MANUEL EMILIO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-31811509-6",
+   "B": "GAUNA ESTEBAN ALFREDO",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "27-23691416-5",
+   "B": "GAUNA LILIANA",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "27-22594080-6",
+   "B": "GAUNA NANCY NOEMI",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "27-16954069-7",
+   "B": "GILETTA PATRICIA ELIDIA",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-30959577-8",
+   "B": "GIMENEZ DIEGO MAURICIO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-20939539-9",
+   "B": "GODOY CARLOS NELSON",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-21043021-1",
+   "B": "GODOY MARCELO FABIAN",
+   "C": "CTI"
+ },
+ {
+   "A": "20-20448863-1",
+   "B": "GODOY RUBEN DARIO",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "27-34898291-0",
+   "B": "GOMEZ SELENE MAGALI",
+   "C": "CTI"
+ },
+ {
+   "A": "27-25534357-8",
+   "B": "GONZALEZ LORENA ROCIO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-27471848-0",
+   "B": "GONZALEZ MAURO REGINO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-24397952-9",
+   "B": "GOY GABRIEL HORACIO",
+   "C": "CTI"
+ },
+ {
+   "A": "27-32065777-1",
+   "B": "IBA#EZ LORENA SOLEDAD",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-30214512-2",
+   "B": "KATZ FABIO CESAR",
+   "C": "CTI"
+ },
+ {
+   "A": "20-27661730-4",
+   "B": "LEGUIZAMON WALTER LEONARDO",
+   "C": "CTI"
+ },
+ {
+   "A": "27-25157338-2",
+   "B": "LEZCANO ARON INDRA",
+   "C": "CTI"
+ },
+ {
+   "A": "20-27369007-8",
+   "B": "LLANES ALEJANDRO MARIA",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-22131365-9",
+   "B": "LOMBARDO ALFREDO OSCAR",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-14792602-3",
+   "B": "LONDRA CARLOS ALBERTO",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "27-30484070-1",
+   "B": "LOPEZ MARINA NOELIA",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-24079177-4",
+   "B": "LOPEZ MARIO LUIS",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-16551916-8",
+   "B": "LUQUE MARTIN",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-28888010-8",
+   "B": "MARIN JUAN PABLO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-16281047-3",
+   "B": "MAZARIN CARLOS RAMON",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "27-24397806-3",
+   "B": "MELONI MARIA BELEN",
+   "C": "CTI"
+ },
+ {
+   "A": "20-35691062-2",
+   "B": "MOLINA PABLO NICOLAS",
+   "C": "CTI"
+ },
+ {
+   "A": "20-32754495-1",
+   "B": "MONTIEL WILMAN JAVIER",
+   "C": "CTI"
+ },
+ {
+   "A": "20-17697244-1",
+   "B": "MONZON BRUNO DANIEL",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-18395141-7",
+   "B": "MORALES ROBERTO ANTONIO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-34398621-2",
+   "B": "MORENO RAFAEL NICOLAS",
+   "C": "CTI"
+ },
+ {
+   "A": "27-29554542-4",
+   "B": "NAVARRO IVANA MARCELA",
+   "C": "CTI"
+ },
+ {
+   "A": "20-36116008-9",
+   "B": "NU#EZ CRISTIAN EMANUEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-23670362-3",
+   "B": "OJEDA ANIBAL HORACIO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-27377502-2",
+   "B": "OJEDA FERNANDO ARIEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-27471578-3",
+   "B": "OJEDA GERARDO RUBEN",
+   "C": "CTI"
+ },
+ {
+   "A": "20-30898363-4",
+   "B": "OJEDA JUAN ALBERTO JESUS",
+   "C": "CTI"
+ },
+ {
+   "A": "20-28342031-1",
+   "B": "OJEDA LUCAS ADOLFO",
+   "C": "CTI"
+ },
+ {
+   "A": "23-29159387-9",
+   "B": "OLEGO WALTER JAVIER",
+   "C": "CTI"
+ },
+ {
+   "A": "20-29767836-2",
+   "B": "OLIVERA ISAAC FRANCISCO",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "27-29720770-4",
+   "B": "ORTIZ LELIA MARIEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-34478137-1",
+   "B": "PALACIOS GUILLERMO JOSE",
+   "C": "CTI"
+ },
+ {
+   "A": "20-37070970-0",
+   "B": "PALACIOS YAMANDU JOAQUIN",
+   "C": "CTI"
+ },
+ {
+   "A": "27-29672587-6",
+   "B": "PANTALEON MARIA BELEN",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "23-24890744-4",
+   "B": "PAREDES YANINA LORENA",
+   "C": "CTI"
+ },
+ {
+   "A": "23-21766753-4",
+   "B": "PARRA EMILIA MARCELA",
+   "C": "CTI"
+ },
+ {
+   "A": "27-29092675-6",
+   "B": "POMBO MARIA FLORENCIA",
+   "C": "CTI"
+ },
+ {
+   "A": "20-28125542-9",
+   "B": "POMBO MARIANO LUIS",
+   "C": "CTI"
+ },
+ {
+   "A": "27-33132213-5",
+   "B": "PRIETO MARIA AGUSTINA",
+   "C": "CTI"
+ },
+ {
+   "A": "20-37263206-3",
+   "B": "QUINTANA EDUARDO MIGUEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-27995097-7",
+   "B": "QUINTANA HECTOR ROBERTO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-25534126-0",
+   "B": "QUIROGA CARLOS MARCELO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-18395027-5",
+   "B": "QUIROZ PABLO ARIEL",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-26593671-8",
+   "B": "RIOS RAMON ARNALDO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-13863548-2",
+   "B": "RIVERO JUAN DANIEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-34898485-4",
+   "B": "ROJO SANTIAGO MARCELO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-26050821-1",
+   "B": "SALAS ALBERTO GABRIEL",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-14485421-8",
+   "B": "SANCHEZ JOSE MALVISIO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-31850216-2",
+   "B": "SAUCO RODRIGO EXEQUIEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-26418396-1",
+   "B": "SCOLARI CHRISTIAN ARIEL",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "27-33685908-0",
+   "B": "SILVA MICAELA SOLEDAD",
+   "C": "CTI"
+ },
+ {
+   "A": "20-25904822-3",
+   "B": "SINOPOLIS CRISTIAN HUGO",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-25876960-1",
+   "B": "SOLARI CESAR ARIEL",
+   "C": "CTI"
+ },
+ {
+   "A": "20-32300312-3",
+   "B": "SOSA SANTANDER NESTOR HERNAN",
+   "C": "CTI"
+ },
+ {
+   "A": "20-27149548-0",
+   "B": "STECHINA FEDERICO ANDRES",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-32490332-2",
+   "B": "STECHINA HORACIO ALCIDES",
+   "C": "CTI"
+ },
+ {
+   "A": "20-29934239-6",
+   "B": "TORRES CESAR GABRIEL",
+   "C": "CTI"
+ },
+ {
+   "A": "27-24632799-3",
+   "B": "TORRES CLAUDIA MARIANA",
+   "C": "CTI"
+ },
+ {
+   "A": "27-23059783-4",
+   "B": "TORRES LILIANA GABRIELA",
+   "C": "CTI"
+ },
+ {
+   "A": "20-22330436-3",
+   "B": "VALDEZ JUAN EDUARDO",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-40447862-2",
+   "B": "VALLEJOS MATIAS MARTIN",
+   "C": "CTI"
+ },
+ {
+   "A": "23-29220978-9",
+   "B": "VALLEJOS RENE ANTONIO",
+   "C": "CTI"
+ },
+ {
+   "A": "20-21351429-7",
+   "B": "VALUSSI CARBONE MARCELO CLAUDIO ALFREDO",
+   "C": "CTI"
+ },
+ {
+   "A": "27-17975502-0",
+   "B": "VELAZQUEZ ROSALIA AGUSTINA",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-30973194-9",
+   "B": "VELIZ PEDRO NELSON",
+   "C": "CTI"
+ },
+ {
+   "A": "27-26968464-5",
+   "B": "VERON ADRIANA ELISABET",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "20-20192899-1",
+   "B": "VILLALBA GERMAN EDUARDO",
+   "C": "PLANTA PERMANENTE"
+ },
+ {
+   "A": "27-25904539-3",
+   "B": "VILLALBA LORENA ANALIA",
+   "C": "CTI"
+ },
+ {
+   "A": "23-33724845-4",
+   "B": "VITULLO ALEJANDRA BETTINA",
+   "C": "CTI"
+ },
+ {
+   "A": "23-29720526-9",
+   "B": "VITULLO SERGIO MATIAS",
+   "C": "CTI"
+ },
+ {
+   "A": "27-23987616-7",
+   "B": "WITT MARIELA DEL CARMEN",
+   "C": "CTI"
+ },
+ {
+   "A": "20-22164448-5",
+   "B": "ZALAZAR DARIO MARCELO",
+   "C": "PLANTA PERMANENTE"
+ }
+]

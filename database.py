@@ -51,6 +51,20 @@ class DataBase:
         except sqlite3.IntegrityError:
             return False 
 
+    # --- NUEVA FUNCIÓN DE BORRADO ---
+    def borrar_empleado(self, id_emp):
+        conn = self.conectar()
+        cursor = conn.cursor()
+        
+        # 1. Primero borramos sus movimientos (historial)
+        cursor.execute("DELETE FROM movimientos WHERE id_empleado = ?", (id_emp,))
+        
+        # 2. Luego borramos al empleado
+        cursor.execute("DELETE FROM empleados WHERE id = ?", (id_emp,))
+        
+        conn.commit()
+        conn.close()
+
     def obtener_lista_empleados_completa(self):
         conn = self.conectar()
         cursor = conn.cursor()
@@ -62,28 +76,19 @@ class DataBase:
         
         for emp in empleados:
             id_emp = emp[0]
-            
-            # Traemos los acumulados
             rem, h50, h100 = self.obtener_resumen_empleado(id_emp)
             
-            # --- CÁLCULOS COMPLETOS ---
             valor_hora = rem / 160 if rem > 0 else 0
-            
-            # Dinero por separado
             dinero_50 = valor_hora * h50 * 1.5
             dinero_100 = valor_hora * h100 * 2.0
-            
-            # Totales
             total_horas_cantidad = h50 + h100
-            total_dinero_final = dinero_50 + dinero_100
 
-           
             fila = (
                 id_emp, emp[1], emp[2], emp[3], emp[4], 
                 rem, valor_hora, 
                 h50, dinero_50, 
                 h100, dinero_100, 
-                total_horas_cantidad, total_dinero_final
+                total_horas_cantidad
             )
             datos_procesados.append(fila)
             
@@ -127,3 +132,34 @@ class DataBase:
         res = cursor.fetchone()
         conn.close()
         return (res[0] or 0.0, res[1] or 0.0, res[2] or 0.0)
+    
+    def importar_empleados_json(self, lista_empleados):
+        conn = self.conectar()
+        cursor = conn.cursor()
+        contador_exitos = 0
+        
+        for i, emp in enumerate(lista_empleados):
+            if emp.get("A") == "AGENTE CUIL":
+                continue
+                
+            try:
+                cuil = str(emp.get("A", "")).strip() 
+                nombre = str(emp.get("B", "")).strip()
+                modalidad = str(emp.get("C", "")).strip()
+                tareas = "-" 
+                
+                if nombre: 
+                    cursor.execute("""
+                        INSERT INTO empleados (cuil, nombre, tareas, modalidad) 
+                        VALUES (?, ?, ?, ?)
+                    """, (cuil, nombre, tareas, modalidad))
+                    contador_exitos += 1
+                    
+            except sqlite3.IntegrityError:
+                pass
+            except Exception as e:
+                print(f"Error en fila {i}: {e}")
+                
+        conn.commit()
+        conn.close()
+        return contador_exitos
