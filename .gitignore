@@ -7,3 +7,5 @@ sistema_jornales.db
 
 # Ignorar carpetas basura de Python
 __pycache__/
+
+dataimport.json
